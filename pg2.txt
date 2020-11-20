@@ -1,2 +1,3 @@
 Hi!
 This is ₹ and page 2.
+This is $ in USA.
